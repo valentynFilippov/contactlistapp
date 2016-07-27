@@ -1,0 +1,33 @@
+{
+  "name": "contactlistapp",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "^1.15.2",
+    "mongojs": "^2.4.0"
+  },
+  "engines": {
+    "node": "4.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "test",
+    "app"
+  ],
+  "author": "valentynfilippov",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentynFilippov/contactlistapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/valentynFilippov/contactlistapp/issues"
+  },
+  "homepage": "https://github.com/valentynFilippov/contactlistapp#readme",
+  "description": "contact list app"
+}
